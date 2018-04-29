@@ -1,0 +1,2 @@
+# Longitudinal-Data-Analysis-MSc-Thesis
+This R code has been used in my Master's thesis.  Several logistic regression models were built in R using the longitudinal data set with missing values from the Indonesian Children’s Health study. The main goal is to examine the incidence of respiratory diseases in a sample of 250 pre-school age Indonesian children which were examined every 3 months for 18 months, using as covariates the age, gender, and vitamin A deficiency. The data set is available at: https://rdrr.io/cran/DPpackage/man/indon.html.
